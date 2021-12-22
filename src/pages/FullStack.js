@@ -23,7 +23,7 @@ const FullStack = () => {
               career a boost?
             </p>
             <Col>
-              <button className="btn btn-danger">Apply</button>
+              <button className="btn btn-primary">Apply</button>
             </Col>
           </Col>
         </Row>

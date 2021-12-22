@@ -31,7 +31,7 @@ const MyNav = () => {
                   Data-Science
                 </NavDropdown.Item>
                 <NavDropdown.Item eventKey="devops">
-                  AWD-DEVOPS
+                  AWS-DEVOPS
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link eventKey="about">About</Nav.Link>

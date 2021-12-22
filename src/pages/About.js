@@ -7,6 +7,7 @@ const About = () => {
         <Col className="d-flex align-item-center justify-content-center">
           <img src={asset3} alt="" />
         </Col>
+
         <Col>
           <h1>Who We are?</h1>
           <p>

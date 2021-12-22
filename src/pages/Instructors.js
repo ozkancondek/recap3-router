@@ -15,7 +15,7 @@ const Instructors = () => {
 
   return (
     <div className="text-center">
-      <h1>OUR INSTRUCTOR</h1>
+      <h1>OUR INSTRUCTORS</h1>
       <h5 className="text-danger">
         This is just to learn API. It is not real :)
       </h5>

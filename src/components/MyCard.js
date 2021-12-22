@@ -14,7 +14,7 @@ const MyCard = (props) => {
           style={{ background: "#C400FF" }}
           onClick={() => navigate(`/${link}`)}
         >
-          Details
+          See more
         </Button>
       </Card.Body>
     </Card>
